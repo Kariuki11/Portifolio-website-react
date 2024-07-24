@@ -1,7 +1,9 @@
 import './index.scss';
 
 const Layout = () => {
-    return <h1>Hello</h1>
+    return <>Hello</>
 }
 
 export default Layout
+
+8:43
